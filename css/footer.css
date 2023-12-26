@@ -1,0 +1,30 @@
+
+footer{
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+    background: #565EA7;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    font-size: 16px;
+    font-weight: 400;
+    p{
+        margin: 0;
+        color: white;
+    }
+    ul{
+        list-style-type: none;
+        color: white;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    a:hover{
+        color: white
+    }
+    .col:last-child{
+        display: flex;
+        align-items: flex-end;
+    }
+}
+    
